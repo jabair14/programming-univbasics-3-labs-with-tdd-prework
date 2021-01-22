@@ -5,4 +5,3 @@ def answer
  puts sum = first_number + second_number
  
 end 
-answer
