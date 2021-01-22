@@ -1,8 +1,8 @@
 first_number = 1
 second_number = 2 
 
-def sum 
+def answer 
  puts sum = first_number + second_number
  
 end 
-sum 
+answer
